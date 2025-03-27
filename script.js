@@ -1,7 +1,7 @@
 document.getElementById('spellForm').addEventListener('submit', async function(event) {
     event.preventDefault(); // Prevents the page from refreshing
 
- let backendURL = "https://spell-checker-api.onrender.com"; // Update with your Render URL
+ let backendURL = "https://spellchecker-xuxd.onrender.com"; // Update with your Render URL
 
 document.getElementById('spellForm').addEventListener('submit', async function(event) {
     event.preventDefault();
